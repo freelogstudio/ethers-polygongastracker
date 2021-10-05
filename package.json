@@ -1,0 +1,13 @@
+{
+  "name": "ethers-polygongastracker",
+  "version": "0.1.0",
+  "main": "lib/polygongastracker.js",
+  "license": "MIT",
+  "Author": "Freelog Studio",
+  "dependencies": {
+    "axios": "^0.22.0"
+  },
+  "devDependencies": {
+    "nice-repl": "^0.1.2"
+  }
+}
