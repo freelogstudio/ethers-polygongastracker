@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "nice-repl": "^0.1.2"
+  },
+  "peerDependencies": {
+    "@ethersproject/units": "^5.4.0"
   }
 }
